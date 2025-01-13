@@ -1,0 +1,1 @@
+ /Users/Guilherme/Documents/Guilherme/projetos/bloc-repo/.dart_tool/flutter_build/623f209920775675a2978c782ddba2ae/native_assets.yaml: 
